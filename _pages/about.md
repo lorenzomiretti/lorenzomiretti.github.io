@@ -2,23 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>TU Berlin</a> and Fraunhofer HHI
 
 profile:
   align: right
-  image: Lorenzo_Miretti-Portrait.jpg
+  image: Lorenzo_Miretti-Portrait_crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: 3-21 </p>
-    <p>Address: Salzufer 15</p>
+    <p>office: Lanolinfabrik 3-21 </p>
+    <p>address: Salzufer 15</p>
     <p>10587 Berlin, Germany </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 --- 
 
-Lorenzo Miretti received the B.Sc. and M.Sc. degrees in telecommunication engineering from Politecnico di Torino, in 2015 and 2018, respectively, and the Ph.D. degree in wireless communications from EURECOM and Sorbonne Université, in 2021. He is currently a Postdoctoral Researcher with Technische Universität Berlin and a Research Fellow with the Fraunhofer Heinrich Hertz Institute, Berlin, Germany. He investigates novel solutions for next-generation wireless networks, such as cell-free massive MIMO and sub-THz mobile access networks.
+Hello! I am a postdoctoral researcher with the <a href='https://www.tu.berlin/en/netit'>Network Information Theory</a> chair at <a href='https://www.tu.berlin/en/'>Technische Universität Berlin</a>, and with the <a href='https://www.hhi.fraunhofer.de/en/departments/wn.html'>Wireless Communications and Networks Department</a> at the <a href='https://www.hhi.fraunhofer.de/en/'>Fraunhofer Heinrich Hertz Institute</a>, both headed by <a href='https://www.tu.berlin/en/netit/prof-dr-ing-slawomir-stanczak'>Prof. Slawomir Stanczak</a>. 
 
-This website is work in progress.
+I studied telecommunication engineering at <a href='https://www.polito.it/'>Politecnico di Torino</a>, and I received the Ph.D. degree in wireless communications from <a href='https://www.eurecom.fr/en'>EURECOM</a> and <a href='https://www.sorbonne-universite.fr/en'>Sorbonne Université</a>, under the supervision of <a href='https://www.eurecom.fr/en/people/gesbert-david'>Prof. David Gesbert</a>. 
+
+My research focus is on communication theory, mathematical optimization, and signal processing for wireless networks.
+
+
+

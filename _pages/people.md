@@ -19,11 +19,12 @@ Prof. Mari Kobayashi (Apple, Germany)
 ### students (direct supervision)
 Noor U. Ain, M.Sc. student (Universität des Saarlandes, Germany)  
 Fariba Armandoust, Ph.D. student (Fraunhofer HHI, Germany)  
-Hector I. J. Blondel, M.Sc. student (CentraleSupélec, France)   
-Roua Diab, Ph.D. student (Fraunhofer HHI, Germany)   
+Hector I. J. Blondel, M.Sc. student (CentraleSupélec, France)  
+Rouaa Diab, Ph.D. student (Fraunhofer HHI, Germany)   
 Santos Michelena, M.Sc. student (TU Berlin, Germany)    
-Ricky Y. H. Ooi, M.Sc. student (TU München, Germany)    
+Ricky Y. H. Ooi, M.Sc. student (TU München, Germany)   
 Isabel Von Stebut, M.Sc. student (TU Berlin, Germany)    
+Utku Ucak, Ph.D student (Fraunhofer HHI, Germany)
 
 
 
